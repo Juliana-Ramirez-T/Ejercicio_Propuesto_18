@@ -9,14 +9,9 @@ package pooepr18;
  * @author Juliana
  */
 public class POOEPR18 {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         // TODO code application logic here
         Formulario form = new Formulario();
         form.setVisible(true);
     }
-    
 }
